@@ -18,6 +18,7 @@
     "web-vitals": "^1.1.2"
   },
   "devDependencies": {
+    "@welldone-software/why-did-you-render": "^6.2.1",
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.36",
     "postcss-cli": "^8.3.1",
