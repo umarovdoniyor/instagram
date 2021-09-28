@@ -2,7 +2,6 @@ import { useState } from 'react';
 import PropTypes from 'prop-types';
 import { formatDistance } from 'date-fns';
 import { Link } from 'react-router-dom';
-import { comment } from 'postcss';
 import AddComments from './add-comment';
 
 export default function Comments({
